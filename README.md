@@ -7,7 +7,7 @@
 
 ## Contact
 <a href="https://linkedin.com/in/carloshenriqueleao/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-carloshenriqueleao-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-carloshenriqueleao-0e76a8?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 ## Github information
