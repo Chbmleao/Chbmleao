@@ -1,9 +1,12 @@
 ### Hi there 👋
 ## I'm Carlos Leão
 
-- 🏡 I live in Brazil, Minas Gerais.
+- 🏡 I live in Brazil, Minas Gerais, Belo Horizonte.
 - 👨‍💻 I’m currently learning Python, C++, HTML, CSS, JS, NodeJS and SQL.
 - 👨‍🎓 I'm in the middle of my bachelors degree in System Analysis by the Federal University of Minas Gerais (UFMG)
+- 🙋‍♂️ [More about me and my projects](https://carlosleao.vercel.app)
+
+
 
 ---
 
