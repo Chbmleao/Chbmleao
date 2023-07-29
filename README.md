@@ -7,15 +7,13 @@
 - 🙋‍♂️ [More about me and my projects](https://carlosleao.vercel.app)
 
 
-
----
-
 ## Contact
-<a href="https://linkedin.com/in/carloshenriqueleao/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-carloshenriqueleao-0e76a8?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 
----
+<div style="display: flex;">
+  <a href = "mailto:carlosbmaltaleao@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/carlosbmaltaleao-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carloshenriqueleao" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-carloshenriqueleao-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 ## My Skills
 
@@ -31,12 +29,6 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 </div>
 
-
-
-          
-          
-
----
 
 ## My Stats 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Chbmleao&theme=dark&background=000000)](https://git.io/streak-stats)
